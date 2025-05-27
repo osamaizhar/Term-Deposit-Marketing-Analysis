@@ -1,0 +1,15 @@
+# Requirements for Term Deposit Marketing Analysis Project
+# Core data science libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine learning libraries
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Additional dependencies that may be needed
+jupyter
+ipykernel

@@ -13,3 +13,4 @@ imbalanced-learn
 # Additional dependencies that may be needed
 jupyter
 ipykernel
+lazypredict

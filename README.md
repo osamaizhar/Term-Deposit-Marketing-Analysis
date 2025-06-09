@@ -1,7 +1,5 @@
 # 7v2rUeFH7VqYe0Fb
 
-Analysis for Term Deposit Marketing of a Client
-
 # Term-Deposit-Marketing-Analysis
 
 > **Dial smarter, save budget, win customers.**  
@@ -47,7 +45,6 @@ Our north-star: **boost call-center success rates** while keeping models interpr
 |------|----------|
 | `exploratory_data_analysis.ipynb` | Visual, comment-rich EDA notebook |
 | `prediction_model_training_final.ipynb` | All feature-engineering + Model 1 & Model 2 training |
-| `result_imgs/` | Confusion matrices, ROC curves, feature-importances—ready for slides |
 | `term-deposit-marketing-2020.csv` | Trimmed dataset so you can hack offline |
 | `requirements.txt` | Pinned deps (Python 3.10-friendly) |
 

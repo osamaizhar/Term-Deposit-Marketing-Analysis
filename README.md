@@ -1,4 +1,4 @@
-# Term-Deposit-Marketing-Analysis (7v2rUeFH7VqYe0Fb)
+# 7v2rUeFH7VqYe0Fb
 
 Analysis for Term Deposit Marketing of a Client
 
